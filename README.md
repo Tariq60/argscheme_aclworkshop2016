@@ -2,7 +2,7 @@
 Pilot project: Annotation of argument schemes (version 1.0)
 -----------------------------------------------------
 
-The corpus contains 30 persuasive essays annotated as to argument schemes. The annotation have been undergone one top of Stab and Gurevych’s (2014) annotation of argumentative components (premise/claim/major claim) and “supports” and “attacks” relations. Only the “supports” relations have been annotated. 
+The corpus contains 30 persuasive essays annotated as to argument schemes. The annotation have been undergone on top of Stab and Gurevych’s (2014) annotation of argumentative components (premise/claim/major claim) and “supports” and “attacks” relations. Only the “supports” relations have been annotated. 
 
 The folder contains the following files:
 
