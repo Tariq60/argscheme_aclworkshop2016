@@ -1,4 +1,4 @@
-# argscheme_aclworkshop2016
+
 Pilot project: Annotation of argument schemes (version 1.0)
 -----------------------------------------------------
 
